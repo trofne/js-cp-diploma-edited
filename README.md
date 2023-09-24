@@ -1,6 +1,6 @@
 # Дипломное задание по курсу «JavaScript-программирование для начинающих»
 
-- Стек используемых технологий:  javascript, html, css, git.
+- Стек используемых технологий:  javascript, html, css.
 - Ссылка на GitHub Pages: https://trofne.github.io/js-cp-diploma-edited.
 
 
